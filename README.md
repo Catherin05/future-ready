@@ -4,6 +4,7 @@ This is my future ready talent project.
 
 <h1>Green Life</h1>
 
+
 This is a static website developed using HTML,CSS languages and W3 framework.
 
  “If you cut a tree, you kill a life. If you save a tree, you save a life. If you plant a tree, you plant a life.” – Trees make the environment cleaner and provide us with oxygen.
